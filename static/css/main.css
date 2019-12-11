@@ -1,0 +1,121 @@
+header.header {
+    background: url('https://cdn.buttercms.com/UWImkkfRNG8dtNDtdZsA');
+    height: 100%;
+    background-size: contain;
+    background-attachment: fixed;
+    width: 100%;
+    top: 0%;
+}
+
+.bck {
+    background-color: darkgray;
+}
+
+.bck p.lead{
+    word-break: break-word;
+}
+.testimonal, .products .submit {
+    text-align: center;
+    padding-right: 0px;
+    width: 100%;
+}
+
+#more {display: none;}
+
+.row{
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 100%;
+    padding-right: inherit;
+}
+
+.probck {
+    background-color: cadetblue;
+}
+
+.galbck {
+    background-color: burlywood;
+}
+
+.conbck {
+    background-color: beige;
+}
+
+h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+p.lead.aboutus{
+    word-break: break-word;
+}
+
+.brand{
+    width: inherit;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 50px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.dropdown.products button{
+    width: 300px;
+}
+
+.dropdown.testimonal button{
+    width: 300px;
+}
+
+header {
+    padding: 62px 0 0px;
+}
+
+.dropdown.submit button{
+    width: 300px;
+}
+
+.btn.btn-dark:hover{
+    color: white;
+}
+
+.form-label-group > input.form-control, .form-label-group > textarea.form-control{
+    background-color: whitesmoke;
+}
+
+.contact-logo{
+    width: 260px;
+}
+
+.contact-info{
+    font-size: 28px;
+    margin-left: 10px;
+}
+.contact-icon{
+    width: 60px;
+}
+a.contact-link{
+    color: inherit;
+    text-decoration: none;
+}
+
+a.contact-link:hover{
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.contact-icon-caption{
+    margin-left: 25px;
+    font-size: inherit; 
+}
+
+.contact-link > table {
+    margin-top: 15px;
+}
