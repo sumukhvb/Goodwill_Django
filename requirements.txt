@@ -2,7 +2,7 @@ buttercms-python==1.1
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
-contentful==1.12.2
+contentful==1.12.4
 cycler==0.10.0
 Django==2.2.5
 facebook-py==0.2
